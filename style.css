@@ -1,0 +1,47 @@
+body{
+	background-color: #3b002e
+}
+#rubrik{
+	font-family: Myriad Pro;
+	font-size: 100px;
+	text-align: center;
+	margin-top: 1%;
+	color: white;
+}
+#ja{
+	font-family: Myriad Pro;
+	font-size: 300px;
+	text-align: center;
+	margin-top: -8%;
+	color: white;
+}
+#nej{
+	font-family: Myriad Pro;
+	font-size: 150px;
+	text-align: center;
+	margin-top: -5%;
+	color: white;
+}
+#bild{
+	display: block;
+	margin: auto;
+	width: 40%;
+	margin-top:-15%;
+}
+#bildnej{
+	display: block;
+	margin: auto;
+	width: 40%;
+	margin-top:-8%;
+}
+button{
+	text-align: center;
+	display: block;
+	width: 350px;
+	background-color: white;
+	font-size: 50px;
+	margin: auto;
+	cursor: pointer;
+	font-family: Arial Black;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
